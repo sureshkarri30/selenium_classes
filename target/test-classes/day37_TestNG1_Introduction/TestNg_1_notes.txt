@@ -1,0 +1,23 @@
+TestNG
+--------
+Test Next Generation - java based testing tool.
+
+Advantages:
+-----
+1) Test cases & test suites
+2) Grouping of test cases.
+3) Prioritize
+4) Parameterization
+5) parallel testing
+6) Reports
+
+
+Installation of testNG
+--------------------------
+1-Add the dependency of TestNG in the pom.xml
+2-add TestNG Plugnin in from  eclipse market place
+		Help--->Eclipse Market place----> search for TestNG and install it
+
+
+
+
